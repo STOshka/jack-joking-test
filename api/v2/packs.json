@@ -2500,7 +2500,7 @@
             "patch_path": "https://drive.google.com/file/d/1YfrHo-vwSPQkUDgOqR_vFEkhY_pmjknV/view?usp=sharing",
             "configuration": {
                 "version_origin": "repo_file",
-                "version_file":"https://drive.google.com/file/d/1EFRyeO8h-TZjs4h9PefpqB3jVm6XJEfy/view?usp=sharing",
+                "version_file":"https://raw.githubusercontent.com/STOshka/jack-joking-test/main/assets/configs/tjjp10/jbg.config.jet",
                 "version_property": "buildVersion"
             },
             "components": [
