@@ -31,7 +31,14 @@
             "description":"You'll have to write in these games."
         }
     ],
-    "patchsCategories":[],
+    "patchsCategories":[
+        {
+            "id":"whatif_patchs",
+            "name":"Перевод на русский",
+            "smallDescription":"Перевод на русский",
+            "patchs":["jpp10_version1"]
+        }
+    ],
     "packs":[
     {
         "id":"jpp1",
