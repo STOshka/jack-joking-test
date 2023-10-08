@@ -2483,10 +2483,10 @@
             "version": "1.0.0"
         },
         "configuration": {
-            "file": "jbg.config.jet",
+            "file": "wi.config.jet",
             "version_property": "buildVersion",
             "version_origin": "game_file",
-            "version_file": "jbg.config.jet"
+            "version_file": "wi.config.jet"
         },
         "store_links": {
             "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
