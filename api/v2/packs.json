@@ -2484,8 +2484,35 @@
         "store_links": {
             "steam": "https://store.steampowered.com/app/2216830/The_Jackbox_Party_Pack_10/"
         },
-        "patchs": [
-        ],
+        "patchs": [{
+            "id": "jpp10_version1",
+            "name": "The Jackbox Party Pack 10",
+            "small_description": "Перевод на демо 10 пака.",
+            "description": "Перевод на демо 10 пака.",
+            "version": "Версия 1",
+            "patch_path": "https://drive.google.com/file/d/1YfrHo-vwSPQkUDgOqR_vFEkhY_pmjknV/view?usp=sharing",
+            "configuration": {
+                "version_origin": "repo_file",
+                "version_property": "buildVersion"
+            },
+            "components": [
+                {
+                    "id": "fixy_text_patch",
+                    "linked_game": "fixytext",
+                    "name": "FixyText",
+                    "description": "FixyText is the Wild West of text-editing. In this chaotic game, everyone’s in group chat, typing all at once to make the most memorable statement. And there’s no delete key. Take that auto-correct!",
+                    "authors": "WhatIf",
+                    "small_description": "FixyText is the Wild West of text-editing.",
+                    "patch_type": {
+                        "game_text": true,
+                        "game_assets": false,
+                        "game_subtitles": false,
+                        "website": true,
+                        "audios": false
+                    }
+                }
+            ]
+        }],
         "games": [
             {
                 "id": "teeko2",
