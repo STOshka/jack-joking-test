@@ -2483,7 +2483,7 @@
             "version": "1.0.0"
         },
         "configuration": {
-            "file": "wi.config.jet",
+            "file": "jbg.config.jet",
             "version_property": "buildVersion",
             "version_origin": "game_file",
             "version_file": "wi.config.jet"
