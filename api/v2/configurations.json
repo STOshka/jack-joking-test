@@ -1,7 +1,4 @@
 {
-    "MAIN":{
-        "HIDE_PATCHER": false
-    },
     "LAUNCHER": {
         "HIDE_DUBBED": true
     }
